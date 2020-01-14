@@ -1,2 +1,1 @@
-# ColSolPhaeo
 # AcanthSymbiontDGE
