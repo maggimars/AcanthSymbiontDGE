@@ -1,5 +1,5 @@
-|*P. cordata* CCMP3104 transcriptome assembly & annotation statistics|
-|---------------------|:------------------|
+||
+|---------------------|------------------|
 |Number of contigs    |32,621             |
 |Sum bp               |37,640,601         |
 |min contig length    |201                | 
